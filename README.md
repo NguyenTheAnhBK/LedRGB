@@ -1,6 +1,5 @@
 # JSON format
 ````md
-```js
 {
     "brightness": 250,
     "color": {
@@ -10,7 +9,6 @@
     },
     "state": "ON"
 }
-```
 ````
 # Description
 
