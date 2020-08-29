@@ -5,8 +5,8 @@
 #define CONFIG_PIN_WHITE -1 //for brightness
 
 //Wifi
-#define CONFIG_WIFI_SSID "LOC HOA"
-#define CONFIG_WIFI_PASS "123456789"
+#define CONFIG_WIFI_SSID "{ssid}"
+#define CONFIG_WIFI_PASS "{password}"
 
 //MQTT
 #define CONFIG_MQTT_HOST "{server}"
